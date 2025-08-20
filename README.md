@@ -11,6 +11,15 @@ Windows 환경에서 **LiveCharts**(WinForms/WPF/Geared)를 활용해 다음 4�
 
 ---
 
+
+<img width="1471" height="813" alt="2" src="https://github.com/user-attachments/assets/91d4adf1-d3dd-4034-b2fc-868d533075c9" />
+<img width="1076" height="620" alt="1" src="https://github.com/user-attachments/assets/c27708ab-845e-424a-99b6-f84c044129cc" />
+<img width="860" height="547" alt="4" src="https://github.com/user-attachments/assets/b5f299be-27d1-4f9c-a26b-5f2068da20d2" />
+<img width="710" height="612" alt="3" src="https://github.com/user-attachments/assets/5db4c61f-d850-4e6c-be9d-bba4c5986236" />
+
+
+---
+
 ## 📦 프로젝트 개요
 
 * **플랫폼:** Windows 10/11, .NET Framework/WinForms
